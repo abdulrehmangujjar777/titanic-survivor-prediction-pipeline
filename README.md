@@ -27,3 +27,13 @@ This project implements a production-ready machine learning pipeline to predict 
 2. Install the required dependencies:
    ```bash
    pip install pandas scikit-learn matplotlib seaborn streamlit joblib
+
+
+
+   ### **Next Step for You:**
+1. Apne GitHub par jayen.
+2. **Add file** -> **Create new file** par click karein.
+3. File ka naam `README.md` rakhein aur oper wala text paste kar dein.
+4. **Commit changes** kar dein.
+
+**Abdul Rehman**, ab aapka Task 2 ka portfolio mukammal hai. Kya ab hum **Task 5 (Support Ticket LLM)** ya **Task 3 (Multi-modal AI)** ka code shuru karein?
